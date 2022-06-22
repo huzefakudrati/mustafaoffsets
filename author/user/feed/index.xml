@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Mustafa Offsets</title>
-	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<title>user &#8211; Mustafa Offsets</title>
+	<atom:link href="http://localhost/wordpress/author/user/feed/" rel="self" type="application/rss+xml" />
 	<link>http://huzefakudrati.github.io/mustafaoffsets</link>
 	<description>You design we print, Its as easy</description>
 	<lastBuildDate>Thu, 02 Jun 2022 06:42:24 +0000</lastBuildDate>
